@@ -1,8 +1,11 @@
 # tinyvm
 
-$ git clone
-$ cd tinyvm
-$ make
-$ ./vm
+    $ git clone
 
-# See the stack unfold!
+    $ cd tinyvm
+
+    $ make
+
+    $ ./vm
+
+// See the stack unfold!
